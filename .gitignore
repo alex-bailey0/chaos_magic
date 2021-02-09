@@ -58,3 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Ignoring files specific to my project
+Invector-3rdPersonController_LITE*
+PandaBehaviour*
+Wolf3D*
+
